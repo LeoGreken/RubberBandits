@@ -1,0 +1,21 @@
+Author: LeoGreken
+Created: 2025-02-05
+
+Use this for educational purposes only!
+
+Features (More coming):
+
+Add 5x armor
+
+Disable/Enable your Player (Must be host): This feature is useful if you want to troll your friends your character will freeze and you will not be able to move or take any damage!
+
+
+
+
+
+
+Keybindings:
+
+F = Disable/Enable your Player
+
+M = Add Armor
